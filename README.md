@@ -1,5 +1,6 @@
-Repository contains additional data and materials related to the BMC Microbiology submission titled: 
-"De novo mutations arising in Candida glabrata evolved in simulated host environments reveal niche-specific adaptive pathways driven by regulatory change"
+#Repository contains additional data and materials related to the BMC Microbiology submission titled: 
+
+##"De novo mutations arising in Candida glabrata evolved in simulated host environments reveal niche-specific adaptive pathways driven by regulatory change"
 
 M. Granada1, C. R. Lindsey1, E. Cook1, P. L. Conlin1, G. Sherlock2, F. Rosenzweig1*
 
